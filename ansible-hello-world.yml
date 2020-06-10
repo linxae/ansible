@@ -3,4 +3,4 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello Adaptive World!
+        msg: "Hello Adaptive World!"
